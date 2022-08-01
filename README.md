@@ -7,9 +7,10 @@
 
 - 💬 Ask me about **Mobile development**
 
+- 💻 General knowledge of **Cybersecurity**
+
 - 📫 How to reach me **https://twitter.com/iamgk808**
 
-- 💻 General knowledge of **Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
