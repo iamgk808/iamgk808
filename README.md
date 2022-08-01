@@ -1,5 +1,3 @@
-<img align="center" alt="android" src="android.gif" >
-
 <h1 align="center">Hi 👋, I'm Ganesh kumar</h1>
 <h3 align="center">A passionate Mobile developer from India</h3>
 
