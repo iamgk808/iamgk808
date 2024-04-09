@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ganesh kumar</h1>
-<h3 align="center">A passionate Mobile developer from India</h3>
+# Hi there! 👋
 
-<p align="left"> <a href="https://twitter.com/iamgk808" target="blank"><img src="https://img.shields.io/twitter/follow/iamgk808?logo=twitter&style=for-the-badge" alt="iamgk808" /></a> </p>
+## About Me
 
-- 🌱 I’m currently learning **Kotlin**
+I'm passionate about cybersecurity and hunting for software vulnerabilities. When I'm not exploring the digital realm, you'll find me sipping coffee and reading security blogs.
 
-- 💬 Ask me about **Mobile development**
+### 🕵️‍♂️ Bug Bounty Hunter
 
-- 💻 General knowledge of **Cybersecurity**
+- **Experience:** Discovered and responsibly disclosed 50+ vulnerabilities across various platforms.
+- **Acknowledgments:** Recognized by top tech companies for my findings.
 
-- 📫 How to reach me **https://twitter.com/iamgk808**
+### 🚀 Skills
 
+- **Ethical Hacking:** Unleashing my inner hacker for good.
+- **Penetration Testing:** Breaking things to make them stronger.
+- **Security Research:** Staying up-to-date with the latest threats.
+- **Vulnerability Assessment:** Identifying weak spots.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamgk808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamgk808" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamgk808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamgk808" height="30" width="40" /></a>
-</p>
+### 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+- **Twitter:** @iamgk808
+- **LinkedIn:** @iamgk808
+- **Blog:** iamgk808.medium.com
+
+---
+
+> "In a world full of vulnerabilities, be the patch." 🛡️
